@@ -223,7 +223,7 @@
 
 ---
 
-### **Ticket 6: Build Employee Task Hub**
+### **Ticket 6: Build Employee Task Hub (employee controller)**
 
 1. **Objective:**
    - Implement a task hub where employees can view tasks assigned to them and update the task status.
